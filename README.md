@@ -79,4 +79,4 @@ wireframes/
 - [Miro — Lean Inception e MVP Canvas](https://miro.com/app/board/uXjVHA-PuAU=/?share_link_id=651869257527)
 - [Jira — Product Backlog e Sprint Backlog](https://docs.google.com/document/d/1rFmVRoNr7z4ehCBH4ViySunejZH2Pb1gjHkBVhrs1P8)
 - [Figma — Wireframes](https://www.figma.com/design/C1X6Vom0NXDmLgxIbbvJeh)
-- [Youtube - Vídeo de apresentação](https://youtu.be/ANy-xYrMVi4)
+- [Youtube — Vídeo de apresentação](https://youtu.be/ANy-xYrMVi4)
